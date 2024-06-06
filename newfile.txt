@@ -1,0 +1,1 @@
+This a a test of git ls-files.
