@@ -14,6 +14,9 @@ As stated above, the main prpose is to provide simple examples for Git training 
 ## Deployment
 This is a simple web project, deployment can be on any web server or even local file system.
 
+## Deployment
+Please fork this repository and then issue Pull Requests for review.
+
 ## How To Contribute
 
 ### Copyright
